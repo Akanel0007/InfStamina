@@ -1,0 +1,16 @@
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\CgInfStamina.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\CgInfStamina.pdb
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\Assembly-CSharp.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\Rocket.API.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\Rocket.Core.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\Rocket.Unturned.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\SDG.NetTransport.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\UnityEngine.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\obj\Debug\CgInfStamina.csproj.AssemblyReference.cache
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\obj\Debug\CgInfStamina.csproj.CoreCompileInputs.cache
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\obj\Debug\CgInfStamina.csproj.CopyComplete
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\obj\Debug\CgInfStamina.dll
+C:\Users\demon\source\repos\CgInfStamina\CgInfStamina\obj\Debug\CgInfStamina.pdb
